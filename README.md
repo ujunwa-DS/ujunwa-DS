@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Obinna
 - 👀 I’m interested in data analysis and science 
-- 🌱 I’m currently learning POWER BI and Excel
+- 🌱 I’m currently proficient in Python, POWER BI and Excel
 - 💞️ I’m looking to collaborate on ANYTHING DATA ANYALYSIS AND SCIENCE, MACHINE LEARNING 
 
 <!---
