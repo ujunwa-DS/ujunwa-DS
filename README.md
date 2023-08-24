@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Obinna
+- 👋 Hi, I’m Ujunwa
 - 👀 I’m interested in data analysis and science 
 - 🌱 I’m currently proficient in Python, POWER BI and Excel
 - 💞️ I’m looking to collaborate on ANYTHING DATA ANYALYSIS AND SCIENCE, MACHINE LEARNING 
